@@ -17,3 +17,6 @@ I am confident that my knowledge and skills in IoT will be valuable assets in my
 I am also excited to continue learning and growing as an IoT developer. There is always more to learn and new technologies to explore, and I am eager to dive in and see what the future holds. Whether I am creating tools for defensive security measures or developing applications that help businesses make more informed decisions, I am excited to see where my skills in IoT will take me.
 
 If you're interested in seeing the code I wrote for my first IoT app, you can check it out on my GitHub repository. I hope that my experiences and the resources I used will be helpful to other developers who are just starting out in the world of IoT.
+
+Credits:
+[https://www.youtube.com/watch?v=tc3Qnf79Ny8](Tomasz Tarnowski - Getting Started with ESP32 - Step by Step Tutorial)
